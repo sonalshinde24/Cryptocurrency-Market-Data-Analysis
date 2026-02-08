@@ -47,7 +47,7 @@ cd Cryptocurrency-Market-Data-Analysis
 
 ---
 
-📊 Insights & Extensions
+### 📊 Insights & Extensions
 
 You can enhance this project by:
 
