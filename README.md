@@ -26,7 +26,6 @@ This notebook enables you to:
 - Pandas for data handling
 - Matplotlib / Seaborn for visualizations
 - NumPy for numeric operations
-
 Feel free to extend it with machine learning models or more advanced visualizations.
 ---
 
