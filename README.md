@@ -1,6 +1,5 @@
 # Cryptocurrency-Market-Data-Analysis 📈🪙
-
-A data analysis project that explores historical cryptocurrency market data and uncovers patterns in price, trading volume, and trends using Python and Jupyter Notebook.
+##### A data analysis project that explores historical cryptocurrency market data and uncovers patterns in price, trading volume, and trends using Python and Jupyter Notebook.
 ---
 
 ### 📎 Dataset
