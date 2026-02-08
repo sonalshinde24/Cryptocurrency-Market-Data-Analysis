@@ -1,5 +1,5 @@
 # Cryptocurrency-Market-Data-Analysis 📈🪙
-##### A data analysis project that explores historical cryptocurrency market data and uncovers patterns in price, trading volume, and trends using Python and Jupyter Notebook.
+A data analysis project that explores historical cryptocurrency market data and uncovers patterns in price, trading volume, and trends using Python and Jupyter Notebook.
 ---
 
 ### 📎 Dataset
@@ -7,7 +7,6 @@
 This repository uses the Cryptocurrency Market Data dataset from Kaggle:
 #### 🔗 Cryptocurrency Market Data – Kaggle
 https://www.kaggle.com/datasets/sonalshinde123/cryptocurrency-market-data
-
 The dataset typically contains historical market metrics for various digital coins (like price, volume, market capitalization, etc.) over time, suitable for exploratory analysis and modeling.
 ---
 
